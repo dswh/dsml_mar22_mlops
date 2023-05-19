@@ -1,2 +1,2 @@
-# dsml_mar22_mlops
+# DSML March Beginner MLOps Batch
  
